@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemExplorer.Web", "SolarSystemExplorer.Web\SolarSystemExplorer.Web.csproj", "{CF604AF3-A7E8-4E77-B5AF-0BDE8BA250C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemExplorer.Core", "SolarSystemExplorer.Core\SolarSystemExplorer.Core.csproj", "{0B008196-BA41-47A8-A097-F8EAD9793D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF604AF3-A7E8-4E77-B5AF-0BDE8BA250C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF604AF3-A7E8-4E77-B5AF-0BDE8BA250C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF604AF3-A7E8-4E77-B5AF-0BDE8BA250C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF604AF3-A7E8-4E77-B5AF-0BDE8BA250C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B008196-BA41-47A8-A097-F8EAD9793D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B008196-BA41-47A8-A097-F8EAD9793D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B008196-BA41-47A8-A097-F8EAD9793D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B008196-BA41-47A8-A097-F8EAD9793D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576C46F2-D49F-4D39-A936-B4B62882FC2F}
+	EndGlobalSection
+EndGlobal

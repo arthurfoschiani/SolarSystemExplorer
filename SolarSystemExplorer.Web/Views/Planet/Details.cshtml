@@ -1,0 +1,10 @@
+﻿@model SolarSystemExplorer.Web.Models.PlanetViewModel
+
+<div class="planet-detail-page">
+    <img src="@Model.ImageUrl" alt="Image of @Model.Name">
+    <div class="infos-planet">
+        <h3>@Model.Name</h3>
+        <p>@Model.Type</p>
+    </div>
+    <p>@Model.Name is located at a distance of @Model.DistanceFromSun million kilometers from the sun.</p>
+</div>

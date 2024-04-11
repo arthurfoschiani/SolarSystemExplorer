@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SolarSystemExplorer.Web/1.0.0": {
+        "dependencies": {
+          "SolarSystemExplorer.Core": "1.0.0"
+        },
+        "runtime": {
+          "SolarSystemExplorer.Web.dll": {}
+        }
+      },
+      "SolarSystemExplorer.Core/1.0.0": {
+        "runtime": {
+          "SolarSystemExplorer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarSystemExplorer.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarSystemExplorer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

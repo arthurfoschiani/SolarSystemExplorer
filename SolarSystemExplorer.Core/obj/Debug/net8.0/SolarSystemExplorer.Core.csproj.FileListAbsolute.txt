@@ -1,0 +1,11 @@
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\bin\Debug\net8.0\SolarSystemExplorer.Core.deps.json
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\bin\Debug\net8.0\SolarSystemExplorer.Core.dll
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\bin\Debug\net8.0\SolarSystemExplorer.Core.pdb
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.dll
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\refint\SolarSystemExplorer.Core.dll
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\SolarSystemExplorer.Core.pdb
+C:\Users\arthu\OneDrive\Documentos\FACULDADE\SolarSystemExplorer\SolarSystemExplorer.Core\obj\Debug\net8.0\ref\SolarSystemExplorer.Core.dll

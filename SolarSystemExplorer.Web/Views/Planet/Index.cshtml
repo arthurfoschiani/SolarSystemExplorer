@@ -1,0 +1,16 @@
+﻿@model IEnumerable<SolarSystemExplorer.Web.Models.PlanetViewModel>
+
+<div class="planets-page">
+    <div class="header-texts">
+        <h2>Planets of the Solar System</h2>
+        <p>Explore more about the planets of our solar system. Click on a planet to see its information.</p>
+    </div>
+    <div class="planets">
+        @foreach (var planet in Model)
+        {
+            <a class="each-planet" asp-action="Details" asp-route-id="@planet.Id">
+                <p>@planet.Name</p>
+            </a>
+        }
+    </div>
+</div>
